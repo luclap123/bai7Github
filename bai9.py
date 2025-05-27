@@ -1,0 +1,1 @@
+print("hãy ủng hộ kênh của mình nhé")
